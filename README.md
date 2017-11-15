@@ -1,7 +1,7 @@
 ## Python Introduction
 
 These files were used in a presentation introducing the Python programming language, including a
-discussion of scikit-learn.
+discussion of machine learning.
 
 ### License
 
